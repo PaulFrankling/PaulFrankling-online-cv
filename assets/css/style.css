@@ -16,29 +16,31 @@ html, body {
     background-color: #4f5d75;
 }
 
-
 .my-profile {
     background-color: #bfc0c0;
     color: #2d3142;
     padding-top: 20px;
     padding-bottom: 20px;
-    height: 100%;
-    width: 100%;
 }
 
-#summary-heading {
+#profile-heading {
+    font-size: 40px;
     padding: 5px;
 }
 
-#summary-heading i {
+#profile-heading i {
     padding: 10px;
 }
 
+.profile-box {
+    border: 2px solid #2d3142;
+}
+
 .summary-p {
-    font-size: 20px;
-    line-height: 20px;
+    font-size: 19px;
     padding: 10px;
 }
+
 
 #details-heading {
     padding: 5px;
@@ -49,10 +51,8 @@ html, body {
 }
 
 .detail-list {
-    font-size: 20px;
+    font-size: 19px;
     line-height: 20px;
-    padding: 5px;
-
 }
 
 #prof-image { 
@@ -61,3 +61,70 @@ html, body {
     width: 200px;
     margin-top: 15px;
 }
+
+
+
+
+
+
+
+
+
+footer {
+    background-color: #4f5d75;
+    padding: 25px;
+}
+
+footer p {
+    color: #fff;
+    font-size: 20px;
+}
+
+.social-network li {
+    display: inline-block;
+}
+
+footer ul {
+    margin-right: 25px;
+}
+
+.social-network i {
+    font-size: 180%;
+    margin-right: 5px;
+}
+
+/*--footer icons hover css input below--*/
+
+.social-network i {
+    color: #fff;
+}
+
+.social-network i:hover {
+    color: #ef8354;
+}
+
+.social-network i {
+    fill: #fff;
+}
+
+.social-network i:hover {
+    fill: #ef8354;
+}
+
+.download i {
+    color: #fff;
+}
+
+.download i:hover {
+    color: #ef8354;
+}
+
+.download i {
+    fill: #fff;
+}
+
+.download i:hover {
+    fill: #ef8354;
+}
+
+/* social-network icons hover has been copied and edited from https://www.solodev.com/blog/web-design/how-to-change-icon-colors-and-background-colors-on-hover.stml */
