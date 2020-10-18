@@ -17,3 +17,8 @@ html, body {
 .col-xs-12 {
     margin: auto;
 }
+
+.my-profile {
+    background-color: #bfc0c0;
+    color: #2d3142;
+}
