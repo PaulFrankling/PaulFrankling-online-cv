@@ -13,3 +13,7 @@ html, body {
 .navbar {
     background-color: #4f5d75;
 }
+
+.col-xs-12 {
+    margin: auto;
+}
