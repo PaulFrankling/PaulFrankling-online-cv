@@ -62,6 +62,25 @@ html, body {
     margin-top: 15px;
 }
 
+.my-history {
+    background-color: #2d3142;
+    color: #fff;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.my-history ul {
+    padding-inline-start: 10px;
+}
+
+.history-headings i {
+    padding: 10px;
+}
+
+.history-lists {
+    list-style-type: none;
+}
+
 
 
 
