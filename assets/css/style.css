@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Exo:100,200,300,400,500,600,700|Open-sans:100,200,300,400,500,600,700');
+
+/* google fonts importation */
+
+html, body {
+    font-family: exo, open-sans, sans-serif;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    min-height: 100%;
+}
+
+.navbar {
+    background-color: #4f5d75;
+}
