@@ -4,10 +4,6 @@
 
 html, body {
     font-family: exo, open-sans, sans-serif;
-    padding: 0;
-    margin: 0;
-    height: 100%;
-    min-height: 100%;
 }
 
 /* body and column structure */
@@ -24,7 +20,7 @@ html, body {
 }
 
 #profile-heading {
-    font-size: 40px;
+    font-size: 30px;
     padding: 5px;
 }
 
@@ -37,7 +33,7 @@ html, body {
 }
 
 .summary-p {
-    font-size: 19px;
+    font-size: 15px;
     padding: 10px;
 }
 
@@ -51,22 +47,22 @@ html, body {
 }
 
 .detail-list {
-    font-size: 19px;
-    line-height: 20px;
+    font-size: 15px;
+    line-height: 10px;
 }
 
 #prof-image { 
     border: 2px solid #2d3142;
-    height: 200px;
-    width: 200px;
+    height: 180px;
+    width: 180px;
     margin-top: 15px;
 }
 
 .my-history {
     background-color: #2d3142;
     color: #fff;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 .my-history ul {
@@ -81,6 +77,14 @@ html, body {
     list-style-type: none;
 }
 
+.history-lists li {
+    margin: 10px 0;
+}
+
+.history-boxes {
+    border: 2px solid #bfc0c0;
+    border-spacing: 10px;
+}
 
 
 
@@ -108,7 +112,7 @@ footer ul {
 }
 
 .social-network i {
-    font-size: 180%;
+    font-size: 150%;
     margin-right: 5px;
 }
 
