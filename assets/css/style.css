@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Exo:100,200,300,400,500,600,700|Open-sans:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Quicksand:100,200,300,400,500,600,700|Open-sans:100,200,300,400,500,600,700');
 
 /* google fonts importation */
 
 html, body {
-    font-family: exo, open-sans, sans-serif;
+    font-family: quicksand, open-sans, sans-serif;
 }
 
 /* body and column structure */
@@ -14,6 +14,7 @@ html, body {
 
 .navbar-dark .navbar-nav .nav-link {
     color: #fff;
+    font-size: 18px;
 }
 
 .navbar-dark .navbar-nav .nav-link:hover {
@@ -28,7 +29,6 @@ html, body {
 }
 
 #profile-heading {
-    font-size: 30px;
     padding: 5px;
 }
 
@@ -41,7 +41,7 @@ html, body {
 }
 
 .summary-p {
-    font-size: 15px;
+    font-size: 18px;
     padding: 5px;
 }
 
@@ -54,8 +54,8 @@ html, body {
 }
 
 .detail-list {
-    font-size: 15px;
-    line-height: 10px;
+    font-size: 18px;
+    line-height: 15px;
 }
 
 #prof-image { 
@@ -82,6 +82,7 @@ html, body {
 
 .my-history ul {
     padding-inline-start: 10px;
+    padding: 5px;
 }
 
 .history-headings i {
@@ -94,12 +95,31 @@ html, body {
 
 .history-lists li {
     margin: 10px 0;
+    font-size: 16px;
 }
 
 .history-boxes {
-    border: 2px solid #bfc0c0;
+    outline: 2px solid #bfc0c0;
 }
 
+.my-portfolio {
+    background-color: #bfc0c0;
+    color: #2d3142;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#portfolio-title {
+    padding: 5px;
+}
+
+#portfolio-title i {
+    padding: 10px;
+}
+
+.portfolio-boxes {
+    outline: 2px solid #2d3142;
+}
 
 
 
