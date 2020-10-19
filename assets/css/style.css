@@ -121,7 +121,20 @@ html, body {
     outline: 2px solid #2d3142;
 }
 
+.my-contact {
+    background-color: #2d3142;
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 
+#contact-title {
+    padding: 5px;
+}
+
+#contact-title i {
+    padding: 10px;
+}
 
 
 
