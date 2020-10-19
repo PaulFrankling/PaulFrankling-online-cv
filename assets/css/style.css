@@ -12,8 +12,12 @@ html, body {
     background-color: #4f5d75;
 }
 
-.navbar-dark .navbar-nav .nav-link:hover {
+.navbar-dark .navbar-nav .nav-link {
     color: #fff;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #ef8354;
 }
 
 .my-profile {
