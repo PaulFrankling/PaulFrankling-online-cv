@@ -12,6 +12,10 @@ html, body {
     background-color: #4f5d75;
 }
 
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #fff;
+}
+
 .my-profile {
     background-color: #bfc0c0;
     color: #2d3142;
@@ -90,7 +94,6 @@ html, body {
 
 .history-boxes {
     border: 2px solid #bfc0c0;
-    border-spacing: 10px;
 }
 
 
