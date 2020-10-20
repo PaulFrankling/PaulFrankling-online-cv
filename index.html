@@ -12,31 +12,26 @@
 <body>
 <header>
   <nav class="navbar navbar-expand-md navbar-dark">
-   <div class="container-fluid">
-    <div class="navbar-brand"><h2>Paul Frankling</h2><h5>Full Stack Developer</h5></div>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav ml-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="#profile">Profile</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#history">History</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#portfolio">Portfolio</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#contact">Contact</a>
-        </li>
-      </ul>
-    </div>
-   </div>
-  </nav>
-  <!---------------navigation(copied from bootstrap and edited)----------------------------------------------------------->
+    <div class="container-fluid">
+      <div class="navbar-brand"><h2>Paul Frankling</h2><h5>Full Stack Developer</h5></div>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+              <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                  <a class="nav-link" href="#profile">Profile</a></li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#history">History</a></li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#portfolio">Portfolio</a></li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#contact">Contact</a></li>
+              </ul>
+            </div>
+        </div>
+    </nav>
 </header>
+<!--------------------navigation(copied from bootstrap and edited)------------------------>
 <section class="my-profile">
 <div class="container-fluid">
   <div class="row text-center">
@@ -182,9 +177,26 @@
     <div class="row text-center">
       <div class="col-md-12">
         <h2 id="contact-title"><a name="contact">Contact<i class="fas fa-comment"></i></a></h2>
+    <div class="center-form">
+    <form>
+      <div class="form-group">
+        <label for="exampleFormControlInput1">Name:</label>
+          <input type="fullname" class="form-control" id="exampleFormControlInput1" placeholder="Name..." required>
       </div>
+      <div class="form-group">
+        <label for="exampleFormControlInput1">Email address:</label>
+          <input type="email" class="form-control" id="exampleFormControlInput2" placeholder="Email..." required>
+      </div>
+      <div class="form-group">
+        <label for="exampleFormControlTextarea1">Project Idea:</label>
+      <textarea class="form-control" id="exampleFormControlTextarea1" rows="5" placeholder="Project Idea..." required></textarea>
+    </div>
+      <button type="submit">Send</button>
+    </form>
     </div>
   </div>
+</div>
+</div>
 </section>
 <footer>
 <div class="container-fluid">
