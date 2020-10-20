@@ -102,6 +102,37 @@ html, body {
     outline: 2px solid #bfc0c0;
 }
 
+#program-heading {
+    padding: 10px;
+}
+
+#program-heading i {
+    padding: 5px;
+}
+
+.progress {
+    position: relative;
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+.progress-bar {
+    background-color: #bfc0c0;
+}
+
+.progress-type {
+    position: absolute;
+    left: 0px;
+    font-weight: 500;
+    font-size: 20px;
+    padding: 5px;
+    color: #2d3142;
+}
+
+.progress-type i {
+    padding-left: 5px;
+}
+
 .my-portfolio {
     background-color: #bfc0c0;
     color: #2d3142;
