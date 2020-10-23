@@ -36,10 +36,6 @@ html, body {
     padding: 10px;
 }
 
-.profile-box {
-    border: 2px solid #2d3142;
-}
-
 .summary-p {
     font-size: 20px;
     padding: 5px;
@@ -66,6 +62,10 @@ html, body {
     margin-top: 15px;
 }
 
+.profile-box {
+    border: 1px solid #2d3142;
+}
+
 .my-history {
     background-color: #2d3142;
     color: #fff;
@@ -87,7 +87,7 @@ html, body {
 }
 
 .history-headings i {
-    padding: 10px;
+    padding: 5px;
 }
 
 .history-lists {
@@ -101,7 +101,7 @@ html, body {
 }
 
 .history-boxes {
-    outline: 2px solid #bfc0c0;
+    outline: 1px solid #bfc0c0;
 }
 
 #program-heading {
