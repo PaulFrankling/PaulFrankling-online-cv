@@ -41,7 +41,7 @@ html, body {
 }
 
 .summary-p {
-    font-size: 18px;
+    font-size: 20px;
     padding: 5px;
 }
 
@@ -55,6 +55,7 @@ html, body {
 
 .detail-list {
     font-size: 18px;
+    font-weight: 500;
     line-height: 15px;
 }
 
@@ -146,11 +147,23 @@ html, body {
 }
 
 #interests-title i {
-    padding: 10px;
+    padding: 5px;
 }
 
 .interests-headings {
     text-align: left;
+}
+
+.interests-headings i {
+    padding: 5px;
+}
+
+.interests-list {
+    font-size: 20px;
+}
+
+.hobbies-list {
+    font-size: 20px;
 }
 
 .my-contact {
@@ -199,16 +212,6 @@ button[type="submit"]:hover {
     }
 }
 
-
-
-
-
-
-
-
-
-
-
 footer {
     background-color: #4f5d75;
     padding: 15px;
@@ -228,7 +231,7 @@ footer ul {
 }
 
 .social-network i {
-    font-size: 150%;
+    font-size: 180%;
     margin-right: 5px;
 }
 
