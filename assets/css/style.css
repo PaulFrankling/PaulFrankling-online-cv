@@ -96,6 +96,7 @@ html, body {
 .history-lists li {
     margin: 10px 0;
     font-size: 16px;
+    color: #bfc0c0;
 }
 
 .history-boxes {
@@ -133,23 +134,23 @@ html, body {
     padding-left: 5px;
 }
 
-.my-portfolio {
+.my-interests {
     background-color: #bfc0c0;
     color: #2d3142;
     padding-top: 20px;
     padding-bottom: 20px;
 }
 
-#portfolio-title {
+#interests-title {
     padding: 5px;
 }
 
-#portfolio-title i {
+#interests-title i {
     padding: 10px;
 }
 
-.portfolio-boxes {
-    outline: 2px solid #2d3142;
+.interests-headings {
+    text-align: left;
 }
 
 .my-contact {
