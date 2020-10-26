@@ -224,6 +224,10 @@ footer p {
     font-size: 20px;
 }
 
+footer p i {
+    padding: 5px;
+}
+
 .social-network li {
     display: inline-block;
 }
