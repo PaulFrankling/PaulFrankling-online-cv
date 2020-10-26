@@ -151,19 +151,21 @@ html, body {
 }
 
 .interests-headings {
-    text-align: left;
+    text-align: center;
 }
 
 .interests-headings i {
     padding: 5px;
 }
 
-.interests-list {
+.interests-list ul {
     font-size: 20px;
+    padding-inline-start: 10px;
 }
 
-.hobbies-list {
+.hobbies-list ul {
     font-size: 20px;
+    padding-inline-start: 10px;
 }
 
 .my-contact {
