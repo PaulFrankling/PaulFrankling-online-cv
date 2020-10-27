@@ -140,6 +140,7 @@ html, body {
     color: #2d3142;
     padding-top: 20px;
     padding-bottom: 20px;
+    font-size: 20px;
 }
 
 #interests-title {
@@ -159,12 +160,11 @@ html, body {
 }
 
 .interests-list ul {
-    font-size: 25px;
     padding-inline-start: 10px;
 }
 
+
 .hobbies-list ul {
-    font-size: 25px;
     padding-inline-start: 10px;
 }
 
