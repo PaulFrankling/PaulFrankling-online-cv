@@ -4,9 +4,8 @@
 
 html, body {
     font-family: quicksand, open-sans, sans-serif;
+    scroll-behavior: smooth;
 }
-
-/* body and column structure */
 
 .navbar {
     background-color: #4f5d75;
