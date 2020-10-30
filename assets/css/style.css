@@ -49,15 +49,17 @@ html, body {
 }
 
 .detail-list {
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 700;
-    line-height: 15px;
+    line-height: 40px;
+    list-style-type: none;
+    padding-inline-start: 10px;
 }
 
 #prof-image { 
     border: 1px solid #2d3142;
-    height: 180px;
-    width: 180px;
+    height: 200px;
+    width: 200px;
     margin-top: 15px;
 }
 
