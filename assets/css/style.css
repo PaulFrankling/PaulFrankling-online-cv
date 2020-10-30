@@ -37,6 +37,7 @@ html, body {
 
 .summary-p {
     font-size: 22px;
+    font-weight: 700;
 }
 
 #details-heading {
@@ -49,6 +50,7 @@ html, body {
 
 .detail-list {
     font-size: 18px;
+    font-weight: 700;
     line-height: 15px;
 }
 
