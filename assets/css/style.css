@@ -1,11 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand:100,200,300,400,500,600,700|Open-sans:100,200,300,400,500,600,700');
 
-/* google fonts importation */
-
-html, body {
+body {
     font-family: quicksand, open-sans, sans-serif;
+}
+
+/* google fonts importation and application */
+
+html {
     scroll-behavior: smooth;
 }
+
+/* scroll-behaviour taken from - https://www.w3schools.com/howto/howto_css_smooth_scroll.asp */
 
 .navbar {
     background-color: #4f5d75;
@@ -16,11 +21,11 @@ html, body {
     font-size: 18px;
 }
 
+/* navbar text color styling taken from https://stackoverflow.com/questions/48735679/bootstrap-change-navbar-link-colors */
+
 .navbar-dark .navbar-nav .nav-link:hover {
     color: #ef8354;
 }
-
-/* navbar hover taken from https://stackoverflow.com/questions/48735679/bootstrap-change-navbar-link-colors */
 
 .my-profile {
     background-color: #bfc0c0;
