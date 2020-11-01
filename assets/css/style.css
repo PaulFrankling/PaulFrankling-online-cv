@@ -44,7 +44,6 @@ html {
 
 .summary-p {
     font-size: 22px;
-    font-weight: 700;
 }
 
 #details-heading {
@@ -57,7 +56,7 @@ html {
 
 .detail-list {
     font-size: 20px;
-    font-weight: 700;
+    font-weight: 500;
     line-height: 40px;
     list-style-type: none;
     padding-inline-start: 10px;

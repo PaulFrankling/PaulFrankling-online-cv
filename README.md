@@ -5,7 +5,10 @@ easy to navigate around was key to the formation of the site. My target audience
 
 ## User Experience:
 
------------
+* ### User Stories
+
+* #### First Time User Goals
+
 
 ## Design:
 
