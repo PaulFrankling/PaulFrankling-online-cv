@@ -27,6 +27,9 @@ In the **Profile section**, I have used a professionally presented image to suit
 
 ## Features:
 
+* Interactive elements.
+* Responsive on all device screen sizes.
+
 ## Technologies used:
 
 ### Programming Languages
@@ -39,7 +42,7 @@ In the **Profile section**, I have used a professionally presented image to suit
 1. [Bootstrap 4.5](https://getbootstrap.com) 
    * Bootstrap was used to make the site responsive and help with styling and establishing the layout.
 1. [Google Fonts](https://fonts.google.com)
-   * I used Google Fonts to import the font 'quicksand' to my style.css which was used all throughout the website.
+   * I used Google Fonts to import the font *'Quicksand'* to my style.css which was used all throughout the website.
 1. [Font Awesome](https://fontawesome.com)
    * Font Awesome was used to add icons to my website to deliver a better UX. 
 1. [Coolor](https://coolors.co)
@@ -52,3 +55,26 @@ In the **Profile section**, I have used a professionally presented image to suit
    * I used Git for version control and to commit and push code to GitHub.
 1. [GitHub](https://github.com/)
    * GitHub was used to store projects pushed from Git.
+
+## Testing:
+
+## Deployment:
+
+## Credits:
+
+### Code
+   * [Bootstrap 4.5](https://getbootstrap.com): Bootstrap was used significantly throughout the project to make it responsive. I used the Grid system as well as inputting a navbar, a progress bar and contact form.
+   * [Stack Overflow](https://stackoverflow.com/) was used to help me style the navbar text colour.
+   * [W3Schools](https://www.w3schools.com/) was used to provide a smooth scroll to the website and to style the contact form and the submit button.
+   * [Courses.Code Institute](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/course/) was used to style the progress bars and used the jQuery for the contact form.
+   * [Solodev](https://www.solodev.com/blog/web-design/how-to-change-icon-colors-and-background-colors-on-hover.stml) was used to apply a hover for the footer icons.
+
+### Content
+   * All content was produced and written by the developer
+
+### Media used
+   * All images and pdf files were provided by the developer.
+
+### Acknowledgements
+   * My Mentor for his highly constructive help.
+   * The Code Institute's tutor support for quicly assisting with any problems or queries.
