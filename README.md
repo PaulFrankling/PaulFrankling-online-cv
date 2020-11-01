@@ -36,14 +36,19 @@ In the **Profile section**, I have used a professionally presented image to suit
 
 ### Framework, Libraries and Programs
 
-1. [Bootstrap 4.5](https://getbootstrap.com)
+1. [Bootstrap 4.5](https://getbootstrap.com) 
+   * Bootstrap was used to make the site responsive and help with styling and establishing the layout.
 1. [Google Fonts](https://fonts.google.com)
+   * I used Google Fonts to import the font 'quicksand' to my style.css which was used all throughout the website.
 1. [Font Awesome](https://fontawesome.com)
+   * Font Awesome was used to add icons to my website to deliver a better UX. 
 1. [Coolor](https://coolors.co)
+   * I used Coolor to provide a colour scheme for the website and for UX purposes.
 1. [Hover.css](https://ianlunn.github.io/Hover/)
+   * I added Hover.css to my navbar links as well as my social media icons, submit button and cv download icon to add colour change when hovered over.
 1. [jQuery](https://jquery.com/)
-1. [Stack Overflow](https://stackoverflow.com/)
-1. [W3Schools](https://www.w3schools.com/)
-1. [Courses.Code Institute]
-1. [Git]
-1. [GitHub]
+   * jQuery was used to stop the contact form increasing its width fully on a large screen for the UX.
+1. [Git](https://git-scm.com/)
+   * I used Git for version control and to commit and push code to GitHub.
+1. [GitHub](https://github.com/)
+   * GitHub was used to store projects pushed from Git.
