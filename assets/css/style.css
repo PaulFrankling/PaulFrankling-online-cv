@@ -30,8 +30,8 @@ html {
 .my-profile {
     background-color: #bfc0c0;
     color: #2d3142;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 #profile-heading {
@@ -40,6 +40,10 @@ html {
 
 #profile-heading i {
     padding: 5px;
+}
+
+hr {
+    border-top: 2px solid #2d3142;
 }
 
 .summary-p {
@@ -57,20 +61,20 @@ html {
 .detail-list {
     font-size: 20px;
     font-weight: 500;
-    line-height: 40px;
+    line-height: 35px;
     list-style-type: none;
-    padding-inline-start: 10px;
+    padding-inline-start: 5px;
 }
 
 #prof-image { 
-    border: 1px solid #2d3142;
+    border: 2px solid #2d3142;
     height: 200px;
     width: 200px;
     margin-top: 15px;
 }
 
 .profile-box {
-    border: 1px solid #2d3142;
+    border: 2px solid #2d3142;
 }
 
 .my-history {
