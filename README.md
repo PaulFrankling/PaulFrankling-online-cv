@@ -71,6 +71,7 @@ In the **Profile section**, I have used a professionally presented image to suit
    * [W3Schools](https://www.w3schools.com/) was used to provide a smooth scroll to the website and to style the contact form and the submit button.
    * [Courses.Code Institute](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/course/) was used to style the progress bars and used the jQuery for the contact form.
    * [Solodev](https://www.solodev.com/blog/web-design/how-to-change-icon-colors-and-background-colors-on-hover.stml) was used to apply a hover for the footer icons.
+   * [Grepper](https://www.codegrepper.com/code-examples/css/how+to+remove+blue+color+in+anchor+tag) was used to remove blue link from the button in my **Profile Section**.
 
 ### Content
    * All content was produced and written by the developer
