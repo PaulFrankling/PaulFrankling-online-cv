@@ -47,7 +47,7 @@ hr {
 }
 
 .summary-p {
-    font-size: 22px;
+    font-size: 20px;
     text-align: left;
 }
 
@@ -76,10 +76,6 @@ hr {
 
 .profile-box {
     border: 2px solid #2d3142;
-}
-
-.download-cv-button {
-    padding: 10px;
 }
 
 .my-profile button[type="button"] {
