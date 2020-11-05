@@ -18,7 +18,7 @@ html, body {
 
 .navbar-dark .navbar-nav .nav-link {
     color: #fff;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 /* navbar text color styling taken from https://stackoverflow.com/questions/48735679/bootstrap-change-navbar-link-colors */
@@ -47,7 +47,7 @@ hr {
 }
 
 .summary-p {
-    font-size: 20px;
+    font-size: 19px;
     text-align: left;
 }
 
@@ -60,9 +60,9 @@ hr {
 }
 
 .detail-list {
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 500;
-    line-height: 35px;
+    line-height: 40px;
     list-style-type: none;
     padding-inline-start: 5px;
 }
@@ -79,7 +79,6 @@ hr {
 }
 
 .my-profile button[type="button"] {
-    margin-top: 10px;
     margin-bottom: 30px;
     color: #fff;
     background-color: #ef8354;
@@ -87,7 +86,7 @@ hr {
     border: none;
     border-radius: 4px;
     cursor: pointer;
-    font-size: 20px;
+    font-size: 22px;
 }
 
 .my-profile button a, a:hover, a:focus, a:active {
