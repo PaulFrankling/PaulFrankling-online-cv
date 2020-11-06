@@ -26,10 +26,10 @@ In the **Profile section**, I have used a professionally presented image to suit
 
 ### Wireframes
 
-* **Profile section** wireframe (also contains header) - [view](assets/wireframes/profilesection.pdf)
-* **History section** wireframe - [view](assets/wireframes/historysection.jpg)
-* **Interests section** wireframe - [view](assets/wireframes/interestssection.jpg)
-* **Contact section** wireframe (also contains footer) [view](assets/wireframes/contactsection.pdf)
+* **Profile section** wireframe (also contains header) - ![Profile](assets/wireframes/profilesection.jpg)
+* **History section** wireframe - ![History](assets/wireframes/historysection.jpg)
+* **Interests section** wireframe - ![Interests](assets/wireframes/interestssection.jpg)
+* **Contact section** wireframe (also contains footer) ![Contact](assets/wireframes/contactsection.jpg)
 
 ## Features:
 
