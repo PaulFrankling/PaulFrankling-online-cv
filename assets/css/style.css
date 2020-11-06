@@ -89,12 +89,14 @@ hr {
     font-size: 22px;
 }
 
+/* profile cv button styling same as submit button in contact section - https://www.w3schools.com/howto/howto_css_contact_form.asp */
+
 .my-profile button a, a:hover, a:focus, a:active {
       text-decoration: none;
       color: inherit;
 }
 
-/* removal of blue link for my cv taken from https://www.codegrepper.com/code-examples/css/how+to+remove+blue+color+in+anchor+tag */
+/* removal of blue link for my cv button taken from https://www.codegrepper.com/code-examples/css/how+to+remove+blue+color+in+anchor+tag */
 
 .my-history {
     background-color: #2d3142;
