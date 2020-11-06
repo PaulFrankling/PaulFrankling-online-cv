@@ -26,10 +26,10 @@ In the **Profile section**, I have used a professionally presented image to suit
 
 ### Wireframes
 
-* **Profile section** wireframe (also contains header) - ![Profile](assets/wireframes/profilesection.jpg)
-* **History section** wireframe - ![History](assets/wireframes/historysection.jpg)
-* **Interests section** wireframe - ![Interests](assets/wireframes/interestssection.jpg)
-* **Contact section** wireframe (also contains footer) ![Contact](assets/wireframes/contactsection.jpg)
+* **Profile section** wireframe - 
+* **History section** wireframe - 
+* **Interests section** wireframe - 
+* **Contact section** wireframe -
 
 ## Features:
 
@@ -85,4 +85,4 @@ In the **Profile section**, I have used a professionally presented image to suit
 
 ### Acknowledgements
    * My Mentor for his highly constructive help.
-   * The Code Institute's tutor support for quicly assisting with any problems or queries.
+   * The Code Institute's tutor support for quickly assisting with any problems or queries.
