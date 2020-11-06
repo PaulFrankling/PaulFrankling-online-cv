@@ -1,4 +1,4 @@
-# First Milestone Project - My Portfolio
+# First Milestone Project - My Online CV
 
 I designed this project with the ambition of creating a user friendly website. Whilst I wanted to present something unique, making the website
 easy to navigate around was key to the formation of the site. My target audience would predominantly be future employees or other web developers and I wanted to make a big impression by designing something clear and concise.
@@ -65,6 +65,17 @@ In the **Profile section**, I have used a professionally presented image to suit
 ## Testing:
 
 ## Deployment:
+
+### GitHub Pages
+
+This project was deployed to GitHub Pages taking the following steps:
+
+1. Sign in to GitHub and locate the GitHub Repository.
+1. Select 'Settings' from the menu near the top.
+1. Scroll down until you reach the GitHub Pages section.
+1. Under 'Source' click the dropdown menu called 'none' and select 'Master Branch'.
+1. The page then automatically refreshes...
+1. The Website is now deployed. Scroll down to GitHub Pages section to retrieve the newly published link.
 
 ## Credits:
 
