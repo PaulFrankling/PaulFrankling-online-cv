@@ -71,6 +71,8 @@ In the **Profile section**, I have used a professionally presented image to suit
    * I added Hover.css to my navbar links as well as my social media icons, submit button and cv download icon to add colour change when hovered over.
 1. [jQuery](https://jquery.com/)
    * jQuery was used to stop the contact form increasing its width fully on a large screen for the UX.
+1. [Balsamiq](https://balsamiq.com/wireframes/desktop/)
+   * I used Balsamiq to create my wireframes for the project.  
 1. [Git](https://git-scm.com/)
    * I used Git for version control and to commit and push code to GitHub.
 1. [GitHub](https://github.com/)
