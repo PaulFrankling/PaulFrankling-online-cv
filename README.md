@@ -7,7 +7,21 @@ easy to navigate around was key to the formation of the site. My target audience
 
 * ### User Stories
 
-* #### First Time User Goals
+  * #### First Time Visitor Goals
+  1. As a First Time Visitor, I want to understand the purpose of the webpage and learn more about the person through their Online CV.
+  1. As a First Time Visitor, I want to navigate easily around the website to find content.
+  1. As a First Time Visitor, I want to 
+
+  * #### Returning Visitor Goals
+  1. As a Returning Visitor,
+  1. As a Returning Visitor,
+  1. As a Returning Visitor,
+
+  * #### Frequent User Goals
+  1. As a Frequent User, 
+  1. As a Frequent User, 
+  1. As a Frequent User, 
+
 
 
 ## Design:

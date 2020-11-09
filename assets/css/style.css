@@ -68,14 +68,14 @@ hr {
 }
 
 #prof-image { 
-    border: 2px solid #2d3142;
     height: 200px;
     width: 200px;
     margin-top: 15px;
 }
 
 .profile-box {
-    border: 2px solid #2d3142;
+    color: #bfc0c0;
+    background-color: #2d3142;
 }
 
 .my-profile button[type="button"] {
