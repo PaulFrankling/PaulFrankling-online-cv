@@ -73,30 +73,21 @@ hr {
     margin-top: 15px;
 }
 
+.cv-para {
+    font-size: 22px;
+    color: #ef8354;
+    padding: 20px;
+}
+
+.cv-para i {
+    padding: 5px;
+    color: #ef8354;
+}
+
 .profile-box {
     color: #bfc0c0;
     background-color: #2d3142;
 }
-
-.my-profile button[type="button"] {
-    margin-bottom: 30px;
-    color: #fff;
-    background-color: #ef8354;
-    padding: 10px 16px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    font-size: 22px;
-}
-
-/* profile cv button styling same as submit button in contact section - https://www.w3schools.com/howto/howto_css_contact_form.asp */
-
-.my-profile button a, a:hover, a:focus, a:active {
-      text-decoration: none;
-      color: inherit;
-}
-
-/* removal of blue link for my cv button taken from https://www.codegrepper.com/code-examples/css/how+to+remove+blue+color+in+anchor+tag */
 
 .my-history {
     background-color: #2d3142;
@@ -254,18 +245,6 @@ hr {
 
 /* media-query taken from https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/715392be2ba942abb1b6f9eaf566aed6/?child=first */
 
-.modal-title {
-    color: #ef8354;
-}
-
-.modal-p {
-    color: #2d3142;
-}
-
-.modal-p i {
-    color: #ef8354;
-}
-
 footer {
     background-color: #4f5d75;
     padding: 15px;
@@ -311,19 +290,19 @@ footer ul {
     fill: #ef8354;
 }
 
-.download i {
+.footer-download i {
     color: #fff;
 }
 
-.download i:hover {
+.footer-download i:hover {
     color: #ef8354;
 }
 
-.download i {
+.footer-download i {
     fill: #fff;
 }
 
-.download i:hover {
+.footer-download i:hover {
     fill: #ef8354;
 }
 
