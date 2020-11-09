@@ -85,6 +85,10 @@ hr {
     color: #ef8354;
 }
 
+.cv-para i:hover {
+    color: #fff;
+}
+
 .profile-box {
     color: #bfc0c0;
     border: 5px solid #ef8354;
