@@ -40,10 +40,10 @@ In the **Profile section**, I have used a professionally presented image to suit
 
 ### Wireframes
 
-* **Profile section** wireframe - 
-* **History section** wireframe - 
-* **Interests section** wireframe - 
-* **Contact section** wireframe -
+* **Profile section** wireframe - ![profile](assets/wireframes/profile-wireframe.png)
+* **History section** wireframe - ![history](assets/wireframes/history-wireframe.png)
+* **Interests section** wireframe - ![interests](assets/wireframes/interests-wireframe.png)
+* **Contact section** wireframe - ![contact](assets/wireframes/contact-wireframe.png)
 
 ## Features:
 
