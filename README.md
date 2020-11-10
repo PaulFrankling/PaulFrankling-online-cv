@@ -9,22 +9,22 @@ This website has been designed to represent a professional overview of myself to
 This website may also interest anyone looking to create a CV or Online CV and look for ideas. Friends and Family may also like to view my project.
 
 
-## User Experience:
+## UX:
 
-* ### User Stories
+  * ### User Stories
 
-  * #### First Time Visitor Goals
-  1. As a First Time Visitor, I want to understand the purpose of the webpage and learn more about the person through their Online CV.
-  1. As a First Time Visitor, I want to navigate easily around the website to find content.
-  1. As a First Time Visitor, I want to locate social media links to further legitamise the profile and allow the employer to see the client in a different capacity.
+    * #### First Time Visitor Goals
+      * As a First Time Visitor, I want to understand the purpose of the webpage and learn more about the person through their Online CV.
+      * As a First Time Visitor, I want to navigate easily around the website to find content.
+      * As a First Time Visitor, I want to locate social media links to further legitamise the profile and allow the employer to see the client in a different capacity.
 
-  * #### Returning Visitor Goals
-  1. As a Returning Visitor, I would like to contact the person with any queries or propositions.
-  1. As a Returning Visitor, I would like to be able to view and/or download the persons CV that is available on the website.
+    * #### Returning Visitor Goals
+      * As a Returning Visitor, I would like to contact the person with any queries or propositions.
+      * As a Returning Visitor, I would like to be able to view and/or download the persons CV that is available on the website.
 
-  * #### Frequent User Goals
-  1. As a Frequent User, I would like to be able to connect with the person on their social media accounts.
-  1. As a Frequent User, I would like to see of any updates to their CV or website.
+    * #### Frequent User Goals
+      * As a Frequent User, I would like to be able to connect with the person on their social media accounts.
+      * As a Frequent User, I would like to see of any updates to their CV or website.
 
 
 ## Design:
@@ -48,20 +48,24 @@ In the **Profile section**, I have used a professionally presented image to suit
 
 ### Wireframes
 
-* **Profile section** (Including header) wireframe - ![profile](assets/wireframes/profile-wireframe.png)
+* **Profile section** (Including Header) wireframe - ![profile](assets/wireframes/profile-wireframe.png)
 * **History section** wireframe - ![history](assets/wireframes/history-wireframe.png)
 * **Interests section** wireframe - ![interests](assets/wireframes/interests-wireframe.png)
-* **Contact section** (Including footer) wireframe - ![contact](assets/wireframes/contact-wireframe.png)
+* **Contact section** (Including Footer) wireframe - ![contact](assets/wireframes/contact-wireframe.png)
 
 ## Features:
 
-* I have added `scroll-behavior: smooth;` to my website navigation to keep the user oriented. It looks better than the navigation instantly taking the user to its website destination.
+* I have added `scroll-behavior: smooth;` to the website navigation to keep the user oriented. It looks better than the navigation instantly taking the user to its website destination.
+
+* 
 
 
 ## Features to implement in the future:
 
-* I want to apply a portfolio section to my website to display future projects. I have stated this in my **Profile Section**:
-> "Whilst studying for a Diploma, I will be establishing a portfolio section to present all my created projects."
+* I want to apply a portfolio section to my website to display future projects, I have stated this in my **Profile Section**;
+
+> "Whilst studying for my Diploma, I will be establishing a portfolio section to present all my created projects."
+
 * I want to apply a modal to my contact-form that will give the viewer a submission confirmation message when they have completed and submitted the form.
 
 ## Technologies used:
@@ -93,6 +97,12 @@ In the **Profile section**, I have used a professionally presented image to suit
    * GitHub was used to store projects pushed from Git.
 
 ## Testing:
+
+### Testing of User Stories in UX section:
+
+  * First Time Visitor Goals
+
+    * As a First Time Visitor, I want to understand the purpose of the webpage and learn more about the person through their Online CV.
 
 ## Deployment:
 
