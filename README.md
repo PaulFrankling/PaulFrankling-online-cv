@@ -4,7 +4,9 @@
 
 [Click here to view my website](https://paulfrankling.github.io/PaulFrankling-online-cv/)
 
-This website has been designed to represent a professional overview of myself to prospective employers, web developers or people looking for ideas to produce their own CV. 
+This website has been designed to represent a professional overview of myself to a target audience of prospective employers, recruiters or web developers. The primary goal of the website is to make a memorable impression on this target audience and for them to communicate with me using the contact page.
+
+This website may also interest anyone looking to create a CV or Online CV and look for ideas. Friends and Family may also like to view my project.
 
 
 ## User Experience:
@@ -86,7 +88,7 @@ In the **Profile section**, I have used a professionally presented image to suit
 1. [Balsamiq](https://balsamiq.com/wireframes/desktop/)
    * I used Balsamiq to create my wireframes for the project.  
 1. [Git](https://git-scm.com/)
-   * I used Git for version control and to commit and push code to GitHub.
+   * I used Git for version control. It was through the terminal; Gitpod, that I used to commit and push code to GitHub.
 1. [GitHub](https://github.com/)
    * GitHub was used to store projects pushed from Git.
 
