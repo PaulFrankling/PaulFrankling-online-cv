@@ -57,7 +57,7 @@ In the **Profile section**, I have used a professionally presented image to suit
 The website has a responsive navigation bar in the header and I have added `scroll-behavior: smooth;` to the navigation to keep the user oriented by scrolling to its destination. It looks better than the navigation instantly taking the user to its website destination.
 The navigation bar also features a change of colour to madarin `#ef8354` when the user hovers over each link which has been done to enhance interactivity.
 
-The Footer has copyright information as well as social media icons and a download icon for my CV. Again, I have implemented a change of colour to mandarin `#ef8354` when these icons arre hovered over.
+The Footer has copyright information as well as social media icons and a download icon for my CV. Again, I have implemented a change of colour to mandarin `#ef8354` when these icons are hovered over.
 
 ### Profile Section
 
