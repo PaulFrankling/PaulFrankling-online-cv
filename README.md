@@ -55,8 +55,8 @@ In the **Profile section**, I have used a professionally presented image to suit
 
 ## Features:
 
-* Interactive elements.
-* Responsive on all device screen sizes.
+* I have added `scroll-behavior: smooth;` to my website navigation to keep the user oriented. It looks better than the navigation instantly taking the user to its website destination.
+
 
 ## Features to implement in the future:
 
@@ -82,7 +82,7 @@ In the **Profile section**, I have used a professionally presented image to suit
 1. [Coolor](https://coolors.co)
    * I used Coolor to provide a colour scheme for the website and for UX purposes.
 1. [Hover.css](https://ianlunn.github.io/Hover/)
-   * I added Hover.css to my navbar links as well as my social media icons and cv download icons to add colour change when hovered over.
+   * I added Hover.css to my navbar links as well as my social media icons and CV download icons to add colour change when hovered over.
 1. [jQuery](https://jquery.com/)
    * jQuery was used to stop the contact form increasing its width fully on a large screen for the UX.
 1. [Balsamiq](https://balsamiq.com/wireframes/desktop/)
@@ -114,7 +114,7 @@ This project was deployed to GitHub Pages taking the following steps:
    * [Stack Overflow](https://stackoverflow.com/) was used to help me style the navbar text colour.
    * [W3Schools](https://www.w3schools.com/) was used to provide a smooth scroll to the website and to style the contact form and the submit button.
    * [Courses.Code Institute](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/course/) was used to style the progress bars and used the jQuery for the contact form.
-   * [Solodev](https://www.solodev.com/blog/web-design/how-to-change-icon-colors-and-background-colors-on-hover.stml) was used to apply a hover for the cv icon and the footer icons.
+   * [Solodev](https://www.solodev.com/blog/web-design/how-to-change-icon-colors-and-background-colors-on-hover.stml) was used to apply a hover for the CV icon and the footer icons.
    * [Gauger](https://gauger.io/fonticon/) was used to design and download my favicon.
 
 ### Content
