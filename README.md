@@ -17,22 +17,19 @@ This website has been designed to represent a professional overview of myself to
   1. As a First Time Visitor, I want to locate social media links to further legitamise the profile and allow the employer to see the client in a different capacity.
 
   * #### Returning Visitor Goals
-  1. As a Returning Visitor,
-  1. As a Returning Visitor,
-  1. As a Returning Visitor,
+  1. As a Returning Visitor, I would like to contact the person with any queries or propositions.
+  1. As a Returning Visitor, I would like to be able to view and/or download the persons CV that is available on the website.
 
   * #### Frequent User Goals
-  1. As a Frequent User, 
-  1. As a Frequent User, 
-  1. As a Frequent User, 
-
+  1. As a Frequent User, I would like to be able to connect with the person on their social media accounts.
+  1. As a Frequent User, I would like to see of any updates to their CV or website.
 
 
 ## Design:
 
 ### Colour Scheme
 
-The colour scheme of the webpage is 
+The colour scheme of the webpage is:
 * Space Cadet `#2d3142`
 * Independence `#4f5d75`
 * Silver `#bfc0c0`
