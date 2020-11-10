@@ -58,8 +58,9 @@ In the **Profile section**, I have used a professionally presented image to suit
 
 ## Features to implement in the future:
 
-* I want to apply a portfolio section to my website to display future projects. I have stated this in my **Profile Section**
-> This Online CV is the first project I have produced. Whilst studying, I will be establishing a portfolio section to present all my created projects.
+* I want to apply a portfolio section to my website to display future projects. I have stated this in my **Profile Section**:
+> "Whilst studying for a Diploma, I will be establishing a portfolio section to present all my created projects."
+* I want to apply a modal to my contact-form that will give the viewer a submission confirmation message when they have completed and submitted the form.
 
 ## Technologies used:
 
