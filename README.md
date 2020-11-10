@@ -56,6 +56,11 @@ In the **Profile section**, I have used a professionally presented image to suit
 * Interactive elements.
 * Responsive on all device screen sizes.
 
+## Features to implement in the future:
+
+* I want to apply a portfolio section to my website to display future projects. I have stated this in my **Profile Section**
+> This Online CV is the first project I have produced. Whilst studying, I will be establishing a portfolio section to present all my created projects.
+
 ## Technologies used:
 
 ### Programming Languages
