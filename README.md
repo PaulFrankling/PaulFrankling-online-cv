@@ -104,10 +104,10 @@ This project was deployed to GitHub Pages taking the following steps:
    * [Gauger](https://gauger.io/fonticon/) was used to design and download my favicon.
 
 ### Content
-   * All content was produced and written by the developer
+   * All content was produced and written by the developer.
 
 ### Media used
-   * All images and pdf files were provided by the developer.
+   * All images, png and pdf files were provided by the developer.
 
 ### Acknowledgements
    * My Mentor for his highly constructive help.

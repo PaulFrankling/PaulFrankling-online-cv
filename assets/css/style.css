@@ -10,7 +10,7 @@ html, body {
     scroll-behavior: smooth;
 }
 
-/* scroll-behaviour taken from - https://www.w3schools.com/howto/howto_css_smooth_scroll.asp */
+/* Credit: scroll-behaviour taken from - https://www.w3schools.com/howto/howto_css_smooth_scroll.asp */
 
 .navbar {
     background-color: #4f5d75;
@@ -21,7 +21,7 @@ html, body {
     font-size: 20px;
 }
 
-/* navbar text color styling taken from https://stackoverflow.com/questions/48735679/bootstrap-change-navbar-link-colors */
+/* Credit: navbar text color styling taken from https://stackoverflow.com/questions/48735679/bootstrap-change-navbar-link-colors */
 
 .navbar-dark .navbar-nav .nav-link:hover {
     color: #ef8354;
@@ -53,7 +53,7 @@ hr {
 
 #details-heading {
     padding: 5px;
-    color: #ef8354;
+    color: #2d3142;
 }
 
 #details-heading i {
@@ -76,23 +76,23 @@ hr {
 
 .cv-para {
     font-size: 22px;
-    color: #ef8354;
+    color: #fff;
     padding-bottom: 20px;
 }
 
 .cv-para i {
     padding: 5px;
-    color: #ef8354;
-}
-
-.cv-para i:hover {
     color: #fff;
 }
 
+.cv-para i:hover {
+    color: #2d3142;
+}
+
 .profile-box {
-    color: #bfc0c0;
-    border: 5px solid #ef8354;
-    background-color: #2d3142;
+    color: #2d3142;
+    border: 5px solid #2d3142;
+    background-color: #ef8354;
 }
 
 .my-history {
@@ -160,7 +160,7 @@ hr {
     color: #2d3142;
 }
 
-/* Progress bar styling taken from - https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/104d9207aa2a4bcbbdce3e321ff7f263/?child=last */
+/* Credit: Progress bar styling taken from - https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/104d9207aa2a4bcbbdce3e321ff7f263/?child=last */
 
 .progress-type i {
     padding-left: 5px;
@@ -238,7 +238,7 @@ hr {
     font-size: 20px;
 }
 
-/* form and submit button styling taken from - https://www.w3schools.com/howto/howto_css_contact_form.asp */
+/* Credit: form and submit button styling taken from - https://www.w3schools.com/howto/howto_css_contact_form.asp */
 
 @media(min-width: 992px) {
     .center-form {
@@ -249,7 +249,7 @@ hr {
     }
 }
 
-/* media-query taken from https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/715392be2ba942abb1b6f9eaf566aed6/?child=first */
+/* Credit: media-query taken from https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/715392be2ba942abb1b6f9eaf566aed6/?child=first */
 
 footer {
     background-color: #4f5d75;
@@ -312,4 +312,4 @@ footer ul {
     fill: #ef8354;
 }
 
-/* social-network icons hover has been copied and edited from https://www.solodev.com/blog/web-design/how-to-change-icon-colors-and-background-colors-on-hover.stml */
+/* Credit: social-network icons hover has been copied and edited from https://www.solodev.com/blog/web-design/how-to-change-icon-colors-and-background-colors-on-hover.stml */
