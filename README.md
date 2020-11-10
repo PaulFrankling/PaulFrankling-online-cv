@@ -1,7 +1,11 @@
-# First Milestone Project - My Online CV
+# Paul Frankling | Online CV
 
-I designed this project with the ambition of creating a user friendly website. Whilst I wanted to present something unique, making the website
-easy to navigate around was key to the formation of the site. My target audience would predominantly be future employees or other web developers and I wanted to make a big impression by designing something clear and concise.
+## Code Institute - Milestone Project 1
+
+[Click here to view my website](https://paulfrankling.github.io/PaulFrankling-online-cv/)
+
+This website has been designed to represent a professional overview of myself to prospective employers, web developers or people looking for ideas to produce their own CV. 
+
 
 ## User Experience:
 
