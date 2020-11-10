@@ -14,7 +14,7 @@ This website has been designed to represent a professional overview of myself to
   * #### First Time Visitor Goals
   1. As a First Time Visitor, I want to understand the purpose of the webpage and learn more about the person through their Online CV.
   1. As a First Time Visitor, I want to navigate easily around the website to find content.
-  1. As a First Time Visitor, I want to 
+  1. As a First Time Visitor, I want to locate social media links to further legitamise the profile and allow the employer to see the client in a different capacity.
 
   * #### Returning Visitor Goals
   1. As a Returning Visitor,
@@ -32,7 +32,12 @@ This website has been designed to represent a professional overview of myself to
 
 ### Colour Scheme
 
-The colour scheme of the webpage is Space Cadet, Independence, Silver, White and Mandarin.
+The colour scheme of the webpage is 
+* Space Cadet `#2d3142`
+* Independence `#4f5d75`
+* Silver `#bfc0c0`
+* Mandarin `#ef8354`
+* White `#fff`
 
 ### Typography
 
@@ -58,8 +63,8 @@ In the **Profile section**, I have used a professionally presented image to suit
 
 ### Programming Languages
 
-* HTML5
-* CSS3
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 ### Framework, Libraries and Programs
 
