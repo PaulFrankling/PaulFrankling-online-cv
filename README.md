@@ -26,7 +26,6 @@ This website may also interest anyone looking to create a CV or Online CV and lo
       * As a Frequent User, I would like to be able to connect with the person on their social media accounts.
       * As a Frequent User, I would like to see of any updates to their CV or website.
 
-
 ## Design:
 
 ### Colour Scheme
@@ -55,9 +54,17 @@ In the **Profile section**, I have used a professionally presented image to suit
 
 ## Features:
 
-* I have added `scroll-behavior: smooth;` to the website navigation to keep the user oriented. It looks better than the navigation instantly taking the user to its website destination.
+The website has a responsive navigation bar in the header and I have added `scroll-behavior: smooth;` to the navigation to keep the user oriented by scrolling to its destination. It looks better than the navigation instantly taking the user to its website destination.
+The navigation bar also features a change of colour to madarin `#ef8354` when the user hovers over each link which has been done to enhance interactivity.
 
-* 
+The Footer has copyright information as well as social media icons and a download icon for my CV. Again, I have implemented a change of colour to mandarin `#ef8354` when these icons arre hovered over.
+
+### Profile Section
+
+My profile section is split into two parts; a summary of my profile and a list of personal details. They are seperated into two columns when viewed on a tablet and desktop. My profile explains my present status and future aims and aspirations. I present this by displaying a question in bold and an answer next to each one.
+
+My personal details are briefly presented with an image of myself. This image provides a professional perception to the user. I include one of two CV download icons here too. 
+
 
 
 ## Features to implement in the future:
