@@ -59,12 +59,27 @@ The navigation bar also features a change of colour to madarin `#ef8354` when th
 
 The Footer has copyright information as well as social media icons and a download icon for my CV. Again, I have implemented a change of colour to mandarin `#ef8354` when these icons are hovered over.
 
+This website is fully responsive.
+
 ### Profile Section
 
 My profile section is split into two parts; a summary of my profile and a list of personal details. They are seperated into two columns when viewed on a tablet and desktop. My profile explains my present status and future aims and aspirations. I present this by displaying a question in bold and an answer next to each one.
 
-My personal details are briefly presented with an image of myself. This image provides a professional perception to the user. I include one of two CV download icons here too. 
+My personal details are briefly presented with an image of myself. This image provides a professional perception to the user. I include one of two CV download icons here too, inviting the user to potentially save or print a pdf version of my CV. 
 
+### History Section
+
+In this section, I present three boxes; my education timeline, qualifications and work timeline. When viewed on a tablet or desktop, these boxes are split into three columns.
+
+Next, I have implemented three progress bars indicating my knowledge of programing languages; HTML, CSS and Javascript.
+
+### Interest Section
+
+In this section, I have included four parts; Web Development, Personal Interests, Hobbies and Additional Info. When viewed on a tablet or desktop, the four parts are split into two columns of two.
+
+### Contact Section
+
+This section includes a contact form, which allows the user to input their name, email and a message. The contact form provides a message to the user when something is missing from it with the use of `required`. I have also used jQuery to retain a sensible width to the contact form on wider device screens. The contact page also has a button in which to submit the information.
 
 
 ## Features to implement in the future:
