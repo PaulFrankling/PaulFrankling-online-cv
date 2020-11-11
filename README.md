@@ -14,7 +14,7 @@ This website may also interest anyone looking to create a CV or Online CV and lo
   * ### User Stories
 
     * #### First Time Visitor Goals
-      * As a First Time Visitor, I want to understand the purpose of the webpage and learn more about the person through their Online CV.
+      * As a First Time Visitor, I want the user to understand the purpose of the webpage and learn about me through my Online CV.
       * As a First Time Visitor, I want to navigate easily around the website to find content.
       * As a First Time Visitor, I want to locate social media links to further legitamise the profile and allow the employer to see the client in a different capacity.
 
@@ -81,7 +81,6 @@ In this section, I have included four parts; Web Development, Personal Interests
 
 This section includes a contact form, which allows the user to input their name, email and a message. The contact form provides a message to the user when something is missing from it with the use of `required`. I have also used jQuery to retain a sensible width to the contact form on wider device screens. The contact page also has a button in which to submit the information.
 
-
 ## Features to implement in the future:
 
 * I want to apply a portfolio section to my website to display future projects, I have stated this in my **Profile Section**;
@@ -124,7 +123,22 @@ This section includes a contact form, which allows the user to input their name,
 
   * First Time Visitor Goals
 
-    * As a First Time Visitor, I want to understand the purpose of the webpage and learn more about the person through their Online CV.
+    * As a First Time Visitor, I want the user to understand the purpose of the webpage and learn about me through my Online CV.
+
+      1. On first view of the website, the user is met with a clean and concise navigation bar which takes them to the page of their choice.
+      1. The user is met with three sections of in depth past, present and future information on me.
+
+    * As a First Time Visitor, I want to navigate easily around the website to find content.
+
+      1. The navigation bar shows clear options in which section to go on the page.
+
+    * As a First Time Visitor, I want to locate social media links to further legitamise the profile and allow the employer to see the client in a different capacity.
+
+      1. At the bottom of the page, the user can view different social media accounts of mine. The links take the user to a new tab, keeping my website open on the previous tab.
+
+    * Returning Visitor Goals
+    
+      * As a Returning Visitor, I would like to contact the person with any queries or propositions.
 
 ## Deployment:
 
