@@ -16,7 +16,7 @@ This website may also interest anyone looking to create a CV or Online CV and lo
     * #### First Time Visitor Goals
       * As a First Time Visitor, I want the user to understand the purpose of the webpage and learn about me through my Online CV.
       * As a First Time Visitor, I want to navigate easily around the website to find content.
-      * As a First Time Visitor, I want to locate social media links to further legitamise the profile and allow the employer to see the client in a different capacity.
+      * As a First Time Visitor, I want to locate social media links to further legitamise the profile and allow the employer to see myself in a different capacity.
 
     * #### Returning Visitor Goals
       * As a Returning Visitor, I would like to contact the person with any queries or propositions.
@@ -132,14 +132,32 @@ This section includes a contact form, which allows the user to input their name,
 
       1. The navigation bar shows clear options in which section to go on the page.
 
-    * As a First Time Visitor, I want to locate social media links to further legitamise the profile and allow the employer to see the client in a different capacity.
+    * As a First Time Visitor, I want to locate social media links to further legitamise the profile and allow the employer to see myself in a different capacity.
 
       1. At the bottom of the page, the user can view different social media accounts of mine. The links take the user to a new tab, keeping my website open on the previous tab.
 
-    * Returning Visitor Goals
+  * Returning Visitor Goals
     
       * As a Returning Visitor, I would like to contact the person with any queries or propositions.
 
+        1. There is an established contact form for the user to contact me and the navigation takes the user straight to it.
+
+      * As a Returning Visitor, I would like to be able to view and/or download the persons CV that is available on the website.
+
+        1. The opening section of the webpage allows the user to download my CV through the use of an interactive icon.
+
+        1. The pdf file opens on a new tab for the user, maintaining my website on the previous tab.
+
+  * Frequent User Goals
+    
+      * As a Frequent User, I would like to be able to connect with the person on their social media accounts.
+
+        1. The user can frequently return to the website and contact me more informally through the use of my social media accounts.
+
+      * As a Frequent User, I would like to see of any updates to their CV or website.
+
+        1. The user may want to see of any updates to the many aspedts of my CV.    
+       
 ## Deployment:
 
 ### GitHub Pages
