@@ -156,7 +156,7 @@ This section includes a contact form, which allows the user to input their name,
 
       * As a Frequent User, I would like to see of any updates to their CV or website.
 
-        1. The user may want to see of any updates to the many aspects of my CV, such as, any new qualifications or new job roles. 
+        1. The user may want to see of any updates to the many aspects of my CV, such as any new qualifications or new job roles. 
        
 ## Deployment:
 
