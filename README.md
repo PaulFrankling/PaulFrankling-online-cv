@@ -73,7 +73,7 @@ In this section, I present three boxes; my education timeline, qualifications an
 
 Next, I have implemented three progress bars indicating my knowledge of programing languages; HTML, CSS and Javascript.
 
-### Interest Section
+### Interests Section
 
 In this section, I have included four parts; Web Development, Personal Interests, Hobbies and Additional Info. When viewed on a tablet or desktop, the four parts are split into two columns of two.
 
@@ -165,11 +165,28 @@ This section includes a contact form, which allows the user to input their name,
 This project was deployed to GitHub Pages taking the following steps:
 
 1. Sign in to GitHub and locate the GitHub Repository.
-1. Select 'Settings' from the menu near the top.
-1. Scroll down until you reach the GitHub Pages section.
-1. Under 'Source' click the dropdown menu called 'none' and select 'Master Branch'.
+1. Select "Settings" from the menu near the top.
+1. Scroll down until you reach the "GitHub Pages" section.
+1. Under "Source" click the dropdown menu called "none" and select "Master Branch".
 1. The page then automatically refreshes...
 1. The Website is now deployed. Scroll down to GitHub Pages section to retrieve the newly published link.
+
+### Forking the GitHub Repository
+
+1. Sign in to GitHub and locate the GitHub Repository.
+1. At the top right hand side of the screen, below the navigation bar, you will find the "Fork" button.
+1. By clicking this, you will have a copy of the original repository in your GitHub account.
+
+### How to make a Local Clone
+
+1. Sign in to Github and locate the repository.
+1. Above the list of files, to the right, click the "Code" button.
+1. In order to clone the repository, you can do so by HTTPS, SSH and GitHub CLI. Select one and copy the URL. 
+1. Open Git Bash.
+1. Change the current working directory to the location you'd like the cloned directory to be made.
+1. Type `git clone` and paste the URL you copied in step 3.
+1. Press Enter. Your local clone is then created.
+
 
 ## Credits:
 
