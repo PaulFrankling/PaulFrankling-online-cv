@@ -64,6 +64,12 @@ hr {
     font-size: 22px;
     font-weight: 500;
     line-height: 40px;
+    text-align: center;
+}
+
+.detail-list ul {
+    display: inline-block;
+    text-align: left;
     list-style-type: none;
     padding-inline-start: 5px;
 }
@@ -77,7 +83,7 @@ hr {
 }
 
 .cv-para {
-    font-size: 22px;
+    font-size: 24px;
     color: #2d3142;
     padding-bottom: 20px;
 }
@@ -116,6 +122,10 @@ hr {
     padding: 5px;
 }
 
+.history-headings {
+    padding-top: 5px;
+}
+
 .history-headings i {
     padding: 5px;
 }
@@ -131,7 +141,7 @@ hr {
 }
 
 .history-boxes {
-    outline: 1px solid #bfc0c0;
+    box-shadow: 0 0 5px;
 }
 
 #program-heading {
