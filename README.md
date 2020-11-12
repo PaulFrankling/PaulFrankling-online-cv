@@ -185,7 +185,7 @@ This project was deployed to GitHub Pages taking the following steps:
 1. Open Git Bash.
 1. Change the current working directory to the location you'd like the cloned directory to be made.
 1. Type `git clone` and paste the URL you copied in step 3.
-1. Press Enter. Your local clone is then created.
+1. Press Enter. Your local clone will be created.
 
 
 ## Credits:
