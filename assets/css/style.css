@@ -47,7 +47,7 @@ hr {
 }
 
 .summary-p {
-    font-size: 18px;
+    font-size: 20px;
     text-align: left;
 }
 
@@ -61,7 +61,7 @@ hr {
 }
 
 .detail-list {
-    font-size: 22px;
+    font-size: 18px;
     font-weight: 500;
     line-height: 40px;
     text-align: center;
@@ -70,15 +70,14 @@ hr {
 .detail-list ul {
     display: inline-block;
     text-align: left;
-    list-style-type: none;
-    padding-inline-start: 5px;
 }
 
 #prof-image { 
     height: 200px;
     width: 200px;
     margin-top: 15px;
-    box-shadow: 0 0 10px;
+    border: 2px solid #2d3142;
+    border-radius: 50%;
     padding: 5px;
 }
 
@@ -95,11 +94,6 @@ hr {
 
 .cv-para i:hover {
     color: #ef8354;
-}
-
-.profile-box {
-    color: #2d3142;
-    box-shadow: 0 0 10px;
 }
 
 .my-history {

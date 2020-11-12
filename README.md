@@ -119,6 +119,11 @@ This section includes a contact form, which allows the user to input their name,
 
 ## Testing:
 
+I validated my webpage with the use of the W3C Markup Validator and the W3C CSS Validator to ensure there were no syntax errors.
+
+* [W3C Markup Validator](https://validator.w3.org/#validate_by_input) -
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_uri) -
+
 ### Testing of User Stories in UX section:
 
   * First Time Visitor Goals
@@ -156,8 +161,12 @@ This section includes a contact form, which allows the user to input their name,
 
       * As a Frequent User, I would like to see of any updates to their CV or website.
 
-        1. The user may want to see of any updates to the many aspects of my CV, such as any new qualifications or new job roles. 
-       
+        1. The user can return to see of any updates made to some aspects of my CV, such as any new qualifications or new job roles. 
+
+### Further Testing
+
+### Known Bugs
+
 ## Deployment:
 
 ### GitHub Pages
