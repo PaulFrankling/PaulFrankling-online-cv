@@ -63,9 +63,9 @@ This website is fully responsive.
 
 ### Profile Section
 
-My profile section is split into two parts; a summary of my profile and a list of personal details. They are seperated into two columns when viewed on a tablet and desktop. My profile explains my present status and future aims and aspirations. I present this by displaying a question in bold and an answer next to each one.
+My profile section is split into two parts; The first part is my image and personal details and the second part is a short summary of myself. The second part splits into three columns when viewed on a tablet and desktop. 
 
-My personal details are briefly presented with an image of myself. This image provides a professional perception to the user. I include one of two CV download icons here too, inviting the user to potentially save or print a pdf version of my CV. 
+My image is used to present a perception of professionalism to the user. My section below explains my present status, future aims and aspirations. I present this by displaying a question in bold and an answer below each one.
 
 ### History Section
 
