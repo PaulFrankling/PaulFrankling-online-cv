@@ -34,42 +34,36 @@ html, body {
     padding-bottom: 20px;
 }
 
-#profile-heading {
+.welcome-heading {
     padding: 10px;
 }
 
-#profile-heading i {
+.details {
+    font-size: 20px;
     padding: 5px;
+}
+
+.details li {
+    display: inline;
 }
 
 hr {
     border-top: 2px solid #2d3142;
+    width: 50%;
 }
 
-.summary-p {
-    font-size: 20px;
-    text-align: left;
+.question-title {
+    margin-top: 10px;
 }
 
-#details-heading {
-    padding: 10px;
-    color: #2d3142;
-}
-
-#details-heading i {
+.question-title i {
     padding: 5px;
 }
 
-.detail-list {
-    font-size: 18px;
-    font-weight: 500;
-    line-height: 40px;
-    text-align: center;
-}
-
-.detail-list ul {
-    display: inline-block;
+.answer-p {
+    font-size: 20px;
     text-align: left;
+    padding: 10px;
 }
 
 #prof-image { 
@@ -79,21 +73,6 @@ hr {
     border: 2px solid #2d3142;
     border-radius: 50%;
     padding: 5px;
-}
-
-.cv-para {
-    font-size: 24px;
-    color: #2d3142;
-    padding-bottom: 20px;
-}
-
-.cv-para i {
-    padding: 5px;
-    color: #2d3142;
-}
-
-.cv-para i:hover {
-    color: #ef8354;
 }
 
 .my-history {

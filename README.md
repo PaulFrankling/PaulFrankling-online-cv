@@ -85,7 +85,7 @@ This section includes a contact form, which allows the user to input their name,
 
 * I want to apply a portfolio section to my website to display future projects, I have stated this in my **Profile Section**;
 
-> "Whilst studying for my Diploma, I will be establishing a portfolio section to present all my created projects."
+> "Whilst studying for my Diploma, I will be establishing a portfolio to present all my created projects."
 
 * I want to apply a modal to my contact-form that will give the viewer a submission confirmation message when they have completed and submitted the form.
 
@@ -107,7 +107,7 @@ This section includes a contact form, which allows the user to input their name,
 1. [Coolor](https://coolors.co)
    * I used Coolor to provide a colour scheme for the website and for UX purposes.
 1. [Hover.css](https://ianlunn.github.io/Hover/)
-   * I added Hover.css to my navbar links as well as my social media icons and CV download icons to add colour change when hovered over.
+   * I added Hover.css to my navbar links as well as my social media icons and CV download icon to add colour change when hovered over.
 1. [jQuery](https://jquery.com/)
    * jQuery was used to stop the contact form increasing its width fully on a large screen for the UX.
 1. [Balsamiq](https://balsamiq.com/wireframes/desktop/)
@@ -149,7 +149,7 @@ I validated my webpage with the use of the W3C Markup Validator and the W3C CSS 
 
       * As a Returning Visitor, I would like to be able to view and/or download the persons CV that is available on the website.
 
-        1. The opening section of the webpage allows the user to download my CV through the use of an interactive icon.
+        1. The footer of the webpage allows the user to download my CV through the use of an interactive icon.
 
         1. The pdf file opens on a new tab for the user, maintaining my website on the previous tab.
 
