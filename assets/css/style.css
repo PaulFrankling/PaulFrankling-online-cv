@@ -52,17 +52,17 @@ hr {
     width: 100%;
 }
 
-.question-title {
+.summary-title {
     margin-top: 10px;
 }
 
-.question-title i {
+.summary-title i {
     padding: 5px;
 }
 
-.answer-p {
+.summary-p {
     font-size: 20px;
-    text-align: left;
+    text-align: center;
     padding: 10px;
 }
 
@@ -118,7 +118,7 @@ hr {
 }
 
 #program-heading {
-    padding: 5px;
+    padding: 10px;
 }
 
 #program-heading i {
@@ -169,6 +169,7 @@ hr {
 .interests-headings {
     text-align: center;
     color: #2d3142;
+    padding: 5px;
 }
 
 .interests-headings i {
@@ -201,7 +202,11 @@ hr {
 }
 
 #contact-title i {
-    padding: 10px;
+    padding: 5px;
+}
+
+.contact-p {
+    padding-top: 20px;
 }
 
 .center-form {
