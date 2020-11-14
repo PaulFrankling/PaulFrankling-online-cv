@@ -65,7 +65,7 @@ This website is fully responsive.
 
 My profile section is split into two parts; The first part is my image and personal details and the second part is a short summary of myself. The second part splits into three columns when viewed on a tablet and desktop. 
 
-My image is used to present a perception of professionalism to the user. My section below explains my present status, future aims and aspirations. I present this by displaying a question in bold and an answer below each one.
+My image is used to present a perception of professionalism to the user. My section below explains my present status, my future aims and future plans.
 
 ### History Section
 
