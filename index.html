@@ -12,20 +12,20 @@
 </head>
 <body>
 <header>
-  <nav class="navbar navbar-expand-md navbar-dark">
+  <nav class="navbar fixed-top navbar-expand-md navbar-dark">
     <div class="container-fluid">
       <div class="navbar-brand"><h2>Paul Frankling</h2><h5>Full Stack Developer</h5></div>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarNav">
               <ul class="navbar-nav ml-auto">
-                <li class="nav-item">
+                <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
                   <a class="nav-link" href="#profile">Profile</a></li>
-                <li class="nav-item">
+                <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
                   <a class="nav-link" href="#history">History</a></li>
-                <li class="nav-item">
+                <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
                   <a class="nav-link" href="#interests">Interests</a></li>
-                <li class="nav-item">
+                <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
                   <a class="nav-link" href="#contact">Contact</a></li>
               </ul>
             </div>
@@ -79,7 +79,7 @@
   <div class="container">
     <div class="row text-center">
       <div class="col-md-4">
-        <div class="history-boxes">
+        <div class="history-boxes rounded">
           <h4 class="history-headings">Education<i class="fas fa-graduation-cap"></i></h4>
             <ul class="history-lists">
               <li><b>Code Institute</b></li>
@@ -95,7 +95,7 @@
         </div>
 <!-- education-section -->
       <div class="col-md-4">
-        <div class="history-boxes">
+        <div class="history-boxes rounded">
           <h4 class="history-headings">Qualifications<i class="fas fa-scroll"></i></h4>
             <ul class="history-lists">
               <li><b>Leeds Trinity University</b></li>
@@ -111,7 +111,7 @@
         </div>
 <!-- qualifications-section -->  
       <div class="col-md-4">
-        <div class="history-boxes">
+        <div class="history-boxes rounded">
           <h4 class="history-headings">Work<i class="fas fa-briefcase"></i></h4>
             <ul class="history-lists">
               <li><b>Paternity Leave</b></li>
