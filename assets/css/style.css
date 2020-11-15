@@ -2,12 +2,11 @@
 
 body {
     font-family: quicksand, open-sans, sans-serif;
-    padding-top: 100px;
 }
 
 /* google fonts importation and application */
 
-html, body {
+html {
     scroll-behavior: smooth;
     scroll-padding-top: 120px;
 }
@@ -27,6 +26,10 @@ html, body {
 
 .navbar-dark .navbar-nav .nav-link:hover {
     color: #ef8354;
+}
+
+.navbar-brand h2 {
+    font-weight: 600;
 }
 
 .my-profile {
