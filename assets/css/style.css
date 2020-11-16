@@ -2,7 +2,6 @@
 
 body {
     font-family: quicksand, open-sans, sans-serif;
-    padding-top: 90px;
 }
 
 /* google fonts importation and application */
@@ -14,7 +13,7 @@ html {
 /* Credit: scroll-behaviour taken from - https://www.w3schools.com/howto/howto_css_smooth_scroll.asp */
 
 :target:before {
-    content: url("index.html");
+    content: url('index.html');
     display: block;
     height: 100px;
     margin: -100px 0 0;
@@ -38,7 +37,7 @@ html {
 .my-profile {
     background-color: #bfc0c0;
     color: #2d3142;
-    padding-top: 40px;
+    padding-top: 120px;
     padding-bottom: 20px;
 }
 
