@@ -2,17 +2,22 @@
 
 body {
     font-family: quicksand, open-sans, sans-serif;
-    padding-top: 70px;
+    padding-top: 90px;
 }
 
 /* google fonts importation and application */
 
 html {
     scroll-behavior: smooth;
-    scroll-padding-top: 100px;
+    scroll-padding-top: 110px;
 }
 
 /* Credit: scroll-behaviour taken from - https://www.w3schools.com/howto/howto_css_smooth_scroll.asp */
+
+.h2 {
+    padding-top: 110px;
+    margin-top: -110px;
+}
 
 .navbar {
     background-color: #4f5d75;
