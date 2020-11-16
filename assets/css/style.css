@@ -19,6 +19,8 @@ html {
     margin: -100px 0 0;
 }
 
+a, a:focus {outline : none;}
+
 .navbar {
     background-color: #4f5d75;
 }
