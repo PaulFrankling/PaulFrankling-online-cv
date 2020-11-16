@@ -2,13 +2,14 @@
 
 body {
     font-family: quicksand, open-sans, sans-serif;
+    padding-top: 70px;
 }
 
 /* google fonts importation and application */
 
 html {
     scroll-behavior: smooth;
-    scroll-padding-top: 120px;
+    scroll-padding-top: 100px;
 }
 
 /* Credit: scroll-behaviour taken from - https://www.w3schools.com/howto/howto_css_smooth_scroll.asp */
