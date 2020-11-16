@@ -10,6 +10,7 @@ body {
 html {
     scroll-behavior: smooth;
     scroll-padding-top: 110px;
+    -webkit-overflow-scrolling: touch;
 }
 
 /* Credit: scroll-behaviour taken from - https://www.w3schools.com/howto/howto_css_smooth_scroll.asp */
