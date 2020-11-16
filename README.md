@@ -94,7 +94,7 @@ This section includes a contact form, which allows the user to input their name,
 
 ### Programming Languages
 
-* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [HTML5](https://en.wikipedia.org/wiki/HTML5) 
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 ### Framework, Libraries and Programs
@@ -124,8 +124,8 @@ This section includes a contact form, which allows the user to input their name,
 
 I validated my webpage with the use of the W3C Markup Validator and the W3C CSS Validator to ensure there were no syntax errors.
 
-* [W3C Markup Validator](https://validator.w3.org/#validate_by_input) - 
-* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_uri) - 
+* [W3C Markup Validator](https://validator.w3.org/#validate_by_input) result - ![html](assets/testing/html-validation.png)
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_uri) result - ![css](assets/testing/css-validation.png)
 
 ### Testing of User Stories in UX section:
 
