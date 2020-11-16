@@ -14,16 +14,6 @@ html {
 
 /* Credit: scroll-behaviour taken from - https://www.w3schools.com/howto/howto_css_smooth_scroll.asp */
 
-
-.glossary__link {
-  padding: 10px;
-}
-
-h2 {
-  padding-top: 110px;
-  margin-top: -110px;
-}
-
 .navbar {
     background-color: #4f5d75;
 }
