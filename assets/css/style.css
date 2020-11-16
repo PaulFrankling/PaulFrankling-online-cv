@@ -2,7 +2,7 @@
 
 body {
     font-family: quicksand, open-sans, sans-serif;
-    padding-top: 90px;
+    padding-top: 80px;
 }
 
 /* google fonts importation and application */
@@ -19,6 +19,8 @@ html {
     height: 100px;
     margin: -100px 0 0;
 }
+
+/* Credit: ':target:before...' taken from - https://spigotdesign.com/smooth-scroll-offset-anchor-links-with-css/ */
 
 .navbar {
     background-color: #4f5d75;

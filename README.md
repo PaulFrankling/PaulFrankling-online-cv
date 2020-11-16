@@ -54,7 +54,8 @@ In the **Profile section**, I have used a professionally presented image to suit
 
 ## Features:
 
-The website has a responsive navigation bar in the header and I have added `scroll-behavior: smooth;` to the navigation to keep the user oriented by scrolling to its destination. It looks better than the navigation instantly taking the user to its website destination.
+The website has a responsive fixed-top navigation bar in the header and I have added `scroll-behavior: smooth;` to the navigation to keep the user oriented by scrolling to its destination. It looks better than the navigation instantly taking the user to its website destination.
+The fixed-top feature presents a much more useful aspect to the navigation bar as the user doesn't need to scroll to the top to use it.
 The navigation bar also features a change of colour to madarin `#ef8354` when the user hovers over each link which has been done to enhance interactivity.
 
 The Footer has copyright information as well as social media icons and a download icon for my CV. Again, I have implemented a change of colour to mandarin `#ef8354` when these icons are hovered over.
@@ -135,7 +136,7 @@ I validated my webpage with the use of the W3C Markup Validator and the W3C CSS 
 
     * As a First Time Visitor, I want to navigate easily around the website to find content.
 
-      1. The navigation bar shows clear options in which section to go on the page.
+      1. The navigation bar shows clear options in which section to go on the page. I implemented a fixed-top navigation bar which is very helpful for the user moving to another area of the page.
 
     * As a First Time Visitor, I want to locate social media links to further legitamise the profile and allow the employer to see myself in a different capacity.
 
@@ -200,12 +201,13 @@ This project was deployed to GitHub Pages taking the following steps:
 ## Credits:
 
 ### Code
-   * [Bootstrap 4.5](https://getbootstrap.com): Bootstrap was used significantly throughout the project to make it responsive. I used the Grid system as well as inputting a navbar, a progress bar and contact form.
-   * [Stack Overflow](https://stackoverflow.com/) was used to help me style the navbar text colour.
+   * [Bootstrap 4.5](https://getbootstrap.com): Bootstrap was used significantly throughout the project to make it responsive. I used the Grid system as well as inputting a fixed-top navbar, a progress bar and contact form.
+   * [Stack Overflow](https://stackoverflow.com/) was used to help me style the navbar text colour and was used in HTML to close the navbar when a link is clicked on mobile.
    * [W3Schools](https://www.w3schools.com/) was used to provide a smooth scroll to the website and to style the contact form and the submit button.
    * [Courses.Code Institute](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/course/) was used to style the progress bars and used the jQuery for the contact form.
    * [Solodev](https://www.solodev.com/blog/web-design/how-to-change-icon-colors-and-background-colors-on-hover.stml) was used to apply a hover for the CV icon and the footer icons.
    * [Gauger](https://gauger.io/fonticon/) was used to design and download my favicon.
+   * [Spigot](https://spigotdesign.com/smooth-scroll-offset-anchor-links-with-css/) was used as an alternative to using `scroll-padding-top` for each link, which wasn't working on IOS. 
 
 ### Content
    * All content was produced and written by the developer.
@@ -214,5 +216,6 @@ This project was deployed to GitHub Pages taking the following steps:
    * All images, png and pdf files were provided by the developer.
 
 ### Acknowledgements
-   * My Mentor for his highly constructive help.
+   * My Mentor for his highly constructive help and support.
    * The Code Institute's tutor support for quickly assisting with any problems or queries.
+   * The slack community for being very helpful in response to any issue.
