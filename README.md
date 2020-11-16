@@ -111,6 +111,8 @@ This section includes a contact form, which allows the user to input their name,
    * I added Hover.css to my navbar links as well as my social media icons and CV download icon to add colour change when hovered over.
 1. [jQuery](https://jquery.com/)
    * jQuery was used to stop the contact form increasing its width fully on a large screen for the UX.
+1. [Autoprefixer](https://autoprefixer.github.io/)
+   * Autoprefixer was used to help implement a `webkit` to my box-shadow in the **History section** to support the feature on all browsers.
 1. [Balsamiq](https://balsamiq.com/wireframes/desktop/)
    * I used Balsamiq to create my wireframes for the project.  
 1. [Git](https://git-scm.com/)
@@ -122,8 +124,8 @@ This section includes a contact form, which allows the user to input their name,
 
 I validated my webpage with the use of the W3C Markup Validator and the W3C CSS Validator to ensure there were no syntax errors.
 
-* [W3C Markup Validator](https://validator.w3.org/#validate_by_input) -
-* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_uri) -
+* [W3C Markup Validator](https://validator.w3.org/#validate_by_input) - 
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_uri) - 
 
 ### Testing of User Stories in UX section:
 
@@ -165,6 +167,7 @@ I validated my webpage with the use of the W3C Markup Validator and the W3C CSS 
         1. The user can return to see of any updates made to some aspects of my CV, such as any new qualifications or new job roles. 
 
 ### Further Testing
+ 
 
 ### Known Bugs
 
@@ -218,4 +221,4 @@ This project was deployed to GitHub Pages taking the following steps:
 ### Acknowledgements
    * My Mentor for his highly constructive help and support.
    * The Code Institute's tutor support for quickly assisting with any problems or queries.
-   * The slack community for being very helpful in response to any issue.
+   * The Slack community for being very supportive.
