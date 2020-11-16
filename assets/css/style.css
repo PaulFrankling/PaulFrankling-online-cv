@@ -13,13 +13,11 @@ html {
 /* Credit: scroll-behaviour taken from - https://www.w3schools.com/howto/howto_css_smooth_scroll.asp */
 
 :target:before {
-    content: url('index.html');
+    content: "";
     display: block;
     height: 100px;
     margin: -100px 0 0;
 }
-
-a, a:focus {outline : none;}
 
 .navbar {
     background-color: #4f5d75;
