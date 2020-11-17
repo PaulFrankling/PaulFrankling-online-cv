@@ -185,8 +185,16 @@ I validated my webpage with the use of the W3C Markup Validator and the W3C CSS 
   * Huawei P30 Lite
   * Acer Laptop
 
-
 ### Known Bugs
+
+* On Apple iPhones and iPads, the smooth scroll doesn't work and the navigation flashes to the link instantly. It also does this on Microsoft Edge and Internet Explorer.
+( Javascript is needed in order to get this to work as it states [here](https://stackoverflow.com/questions/56011205/is-there-a-safari-equivalent-for-scroll-behavior-smooth/56011281#:~:text=You%20can%20use%20%2Dwebkit%2Doverflow,No%20javascript%20required) )
+
+* Also on iPhones and iPads, the link to the **Profile section** sometimes takes the user almost half way down the image at the top of the page. I tested this on my laptop, Huawei P30 Lite and P Smart and the image was always fully visible, which was the desired outcome.
+Here is an image of the bug on the Iphone 7: ![screenshot-bug](assets/testing/screenshot-bug.png)
+
+* The Contact-form refreshes at the **Contact section** when the form is submitted on iPads, Huawei P30 Lite and P Smart. But on the iPhone 7 and X, it refreshes back to the top of the page.
+
 
 ## Deployment:
 
