@@ -167,7 +167,24 @@ I validated my webpage with the use of the W3C Markup Validator and the W3C CSS 
         1. The user can return to see of any updates made to some aspects of my CV, such as any new qualifications or new job roles. 
 
 ### Further Testing
- 
+
+* I have tested this website on the following browsers:
+
+  * Google Chrome
+  * Microsoft Edge
+  * Internet Explorer
+  * Safari
+
+* I have tested my website on the following:
+  
+  * iPhone X
+  * iPhone 7
+  * iPad
+  * iPad Mini 
+  * Huawei P Smart
+  * Huawei P30 Lite
+  * Acer Laptop
+
 
 ### Known Bugs
 
