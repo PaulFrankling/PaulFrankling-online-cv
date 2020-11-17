@@ -57,8 +57,8 @@ In the **Profile section**, I have used a professionally presented image to suit
 ## Features:
 
 The website has a responsive fixed-top navigation bar in the header and I have added `scroll-behavior: smooth;` to the navigation to keep the user oriented by scrolling to its destination. It looks better than the navigation instantly taking the user to its website destination.
-The fixed-top feature presents a much more useful aspect to the navigation bar as the user doesn't need to scroll to the top to use it.
-The navigation bar also features a change of colour to madarin `#ef8354` when the user hovers over each link which has been done to enhance interactivity.
+The fixed-top feature provides a more useful aspect to the navigation bar as the user doesn't need to scroll to the top to use it.
+The links in the navigation bar also features a change of colour to madarin `#ef8354` when the user hovers over each link which has been done to enhance interactivity.
 
 The Footer has copyright information as well as social media icons and a download icon for my CV. Again, I have implemented a change of colour to mandarin `#ef8354` when these icons are hovered over.
 
@@ -135,8 +135,8 @@ I validated my webpage with the use of the W3C Markup Validator and the W3C CSS 
 
     * As a First Time Visitor, I want the user to understand the purpose of the webpage and learn about me through my Online CV.
 
-      1. On first view of the website, the user is met with a clean and concise navigation bar which takes them to the page of their choice.
-      1. The user is met with three sections of in depth past, present and future information on me.
+      1. On first view of the website, the user is met with a clear and concise navigation bar which takes them to the page of their choice.
+      1. The user is met with three sections of in-depth past, present and future information on me.
 
     * As a First Time Visitor, I want to navigate easily around the website to find content.
 
