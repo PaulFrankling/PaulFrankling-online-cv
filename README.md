@@ -90,7 +90,7 @@ I had issues laying out the **Profile Section** and was focusing on splitting my
 
 ![profile-change](assets/alterations/profile-changes.jpg)
 
-I tried multiple styles and my Mentor was very helpful in guiding me to change the idea, as the spaces displayed were uneven and left redundant. As you see from my website, I altered the section so it had no box structure and it displayed the spaces equally.
+I tried multiple styles and my Mentor was very helpful in guiding me to change the idea, as the spaces displayed were uneven and left redundant. As you see from my [website](https://paulfrankling.github.io/PaulFrankling-online-cv/), I altered the section so it had no box structure and it displayed the spaces equally.
 
 ## Features to implement in the future:
 
