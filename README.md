@@ -11,7 +11,7 @@ This website has been designed to represent a professional overview of myself to
 This website may also interest anyone looking to create a CV or Online CV and look for ideas. Friends and Family may also like to view my project.
 
 
-## UX:
+## User Experience (UX):
 
   * ### User Stories
 
@@ -47,7 +47,7 @@ The website uses the font of *Quicksand* and the font of *Open-sans* is used as 
 
 In the **Profile section**, I have used a professionally presented image to suit the purpose of the website, which is providing a good impression to an employer or potential colleague.
 
-### Wireframes
+## Wireframes:
 
 * **Profile section** (Including Header) wireframe - ![profile](assets/wireframes/profile-wireframe.png)
 * **History section** wireframe - ![history](assets/wireframes/history-wireframe.png)
@@ -211,7 +211,6 @@ Here is an image of the bug on the iPhone 7: ![screenshot-bug](assets/testing/sc
 
 * The Contact Form refreshes at the **Contact section** when the Form is submitted on iPads, Huawei P30 Lite and P Smart. But on the iPhone 7 and X, it refreshes back to the top of the page.
 
-
 ## Deployment:
 
 ### GitHub Pages
@@ -245,6 +244,7 @@ This project was deployed to GitHub Pages taking the following steps:
 ## Credits:
 
 ### Code
+
    * [Bootstrap 4.5](https://getbootstrap.com): Bootstrap was used significantly throughout the project to make it responsive. I used the Grid system as well as inputting a fixed-top navbar, a progress bar and contact form.
    * [Stack Overflow](https://stackoverflow.com/) was used to help me style the navbar text colour and was used in HTML to close the navbar when a link is clicked on mobile.
    * [W3Schools](https://www.w3schools.com/) was used to provide a smooth scroll to the website and to style the contact form and the submit button.
