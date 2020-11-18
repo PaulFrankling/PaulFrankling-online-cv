@@ -86,8 +86,9 @@ This section includes a Contact Form, which allows the user to input their name,
 
 ## Issues overcome:
 
-I had issues laying out the **Profile Section** and was focusing on splitting my personal details into a box next to my summary like this: ![profile-change](assets/alterations/profile-changes.jpg)
+I had issues laying out the **Profile Section** and was focusing on splitting my personal details into a box next to my summary like this: 
 
+![profile-change](assets/alterations/profile-changes.jpg)
 
 I tried multiple styles and my Mentor was very helpful in guiding me to change the idea, as the spaces displayed were uneven and left redundant. As you see from my website, I altered the section so it had no box structure and it displayed the spaces equally.
 
