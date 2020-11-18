@@ -84,6 +84,13 @@ In this section, I have included four parts; Web Development, Personal Interests
 
 This section includes a Contact Form, which allows the user to input their name, email and a message. The contact form provides a message to the user when something is missing from it with the use of `required`. I have also used jQuery to retain a sensible width to the contact form on wider device screens. The contact page also has a button in which to submit the information.
 
+## Issues overcome:
+
+I had issues laying out the **Profile Section** and was focusing on splitting my personal details into a box next to my summary like this: ![profile-change](assets/alterations/profile-changes.jpg)
+
+
+I tried multiple styles and my Mentor was very helpful in guiding me to change the idea, as the spaces displayed were uneven and left redundant. As you see from my website, I altered the section so it had no box structure and it displayed the spaces equally.
+
 ## Features to implement in the future:
 
 * I want to apply a portfolio section to my website to display future projects, I have stated this in my **Profile Section**;
