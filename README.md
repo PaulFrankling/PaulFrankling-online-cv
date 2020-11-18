@@ -256,7 +256,7 @@ This project was deployed to GitHub Pages taking the following steps:
    * [Bootstrap 4.5](https://getbootstrap.com): Bootstrap was used significantly throughout the project to make it responsive. I used the Grid system as well as inputting a fixed-top navbar, a progress bar and contact form.
    * [Stack Overflow](https://stackoverflow.com/) was used to help me style the navbar text colour and was used in HTML to close the navbar when a link is clicked on mobile.
    * [W3Schools](https://www.w3schools.com/) was used to provide a smooth scroll to the website and to style the contact form and the submit button.
-   * [Courses.Code Institute](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/course/) was used to style the progress bars and used the jQuery for the contact form.
+   * [Courses.Code Institute](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/course/) was used to style the progress bars and I used the demonstrated jQuery for the contact form.
    * [Solodev](https://www.solodev.com/blog/web-design/how-to-change-icon-colors-and-background-colors-on-hover.stml) was used to apply a hover for the CV icon and the footer icons.
    * [Gauger](https://gauger.io/fonticon/) was used to design and download my favicon.
    * [Spigot](https://spigotdesign.com/smooth-scroll-offset-anchor-links-with-css/) was used as an alternative to using `scroll-padding-top` for each link, which wasn't working on IOS. 
