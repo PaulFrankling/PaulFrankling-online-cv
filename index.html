@@ -23,6 +23,7 @@
           <span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarNav">
               <ul class="navbar-nav ml-auto">
+                <!-- (ml-auto) pushes the links to the right of the navbar on medium device screen -->
                 <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
                   <a class="nav-link"  href="#profile">Profile</a></li>
                 <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
@@ -32,12 +33,13 @@
                 <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
                   <a class="nav-link" href="#contact">Contact</a></li>
               </ul>
-<!-- Credit: data-toggle="collapse" data-target=".navbar-collapse.show" taken from - https://stackoverflow.com/questions/42401606/how-to-hide-collapsible-bootstrap-4-navbar-on-click -->      
+            <!-- Credit: (data-toggle="collapse" data-target=".navbar-collapse.show") this closes the navbar when clicked on a mobile device
+            and is taken from - https://stackoverflow.com/questions/42401606/how-to-hide-collapsible-bootstrap-4-navbar-on-click -->  
             </div>
         </div>
     </nav>
 </header>
-<!-- navigation (navbar taken from bootstrap) -->
+<!-- fixed-top navigation (navbar taken from bootstrap) -->
 <section class="my-profile">
   <div class="container">
     <div class="row text-center">
@@ -54,7 +56,7 @@
           </div>
         </div> 
       </div>
-<!-- details-section -->
+<!-- details-section (profile image and personal details) -->
     <div class="container">
       <div class="row text-center">
         <div class="col-md-4">
@@ -71,7 +73,7 @@
         </div>
       </div>
     </div>
-<!-- summary-section -->
+<!-- summary-section (this section splits into three columns on a medium device screen) -->
 </section>
 <section class="my-history">
   <div class="container">
@@ -99,7 +101,7 @@
             </ul>
           </div>
         </div>
-<!-- education-section -->
+<!-- education-section (this shows the institution studied at and the duration) -->
       <div class="col-md-4">
         <div class="history-boxes rounded">
           <h4 class="history-headings">Qualifications<i class="fas fa-scroll"></i></h4>
@@ -115,7 +117,7 @@
             </ul>
           </div>
         </div>
-<!-- qualifications-section -->
+<!-- qualifications-section (this shows qualifications and the institution they are gained from) -->
       <div class="col-md-4">
         <div class="history-boxes rounded">
           <h4 class="history-headings">Work<i class="fas fa-briefcase"></i></h4>
@@ -133,7 +135,8 @@
         </div>
       </div>
     </div>
-<!-- work-section -->
+<!-- work-section (this shows work history and the duration in each role) -->
+<!-- education, qualifications and work-sections split into three columns on a medium device screen -->
   <div class="container">
     <div class="row text-center">
       <div class="col-md-12">
@@ -159,7 +162,7 @@
         </div>
       </div>
     </div>
-<!-- Progress-section (progress bars taken from bootstrap) -->
+<!-- Progress-section that shows my programming skills (progress bars taken from bootstrap) -->
 </section>
 <section class="my-interests">
   <div class="container">
@@ -180,7 +183,7 @@
             <li><b>Creating -</b> Building a website from its inception to the finalised product provides me with a great sense of achievement.</li>
           </ul>
        </div>
-<!-- web-development-list -->
+<!-- web-development-list (this section splits to the left on a medium device screen as part of two columns) -->
       <div class="col-md-6">
         <h3 class="interests-headings">Personal Interests<i class="fas fa-gamepad"></i></h3>
           <ul class="interests-list">
@@ -191,7 +194,7 @@
         </div>
       </div>
     </div>
-<!-- personal-interests-list -->
+<!-- personal-interests-list (this section splits to the right on a medium device screen as part of two columns) -->
   <div class="container">
     <div class="row">
       <div class="col-md-6">
@@ -200,7 +203,7 @@
             <li>Football, Swimming, Hiking, Reading and Writing.</li>
           </ul>
       </div>
-<!-- hobbies-list -->
+<!-- hobbies-list (this section splits to the left below web-development-list to complete column on a medium device screen) -->
       <div class="col-md-6">
         <h3 class="interests-headings">Additional Info<i class="fas fa-futbol"></i></h3>
           <ul class="hobbies-list">
@@ -209,7 +212,7 @@
         </div>
       </div>
     </div>
-<!-- additional-info-list -->
+<!-- additional-info-list (this section splits to the right below personal-interests-list to complete column on a medium device screen) -->
 </section>
 <section class="my-contact">
   <div class="container">
@@ -246,7 +249,7 @@
     <div class="col-md-4">
       <p class="footer-download">Download My CV<a href="assets/cv/mycv.pdf" target="_blank"><i class="fas fa-download"></i></a></p>
     </div>
-<!-- cv-download -->
+<!-- cv-download (this icon takes the user to an external file of my cv) -->
       <div class="col-md-4">
         <ul class="social-network">
           <li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook-square"></i></a></li>
@@ -255,7 +258,7 @@
           <li><a href="https://www.github.com" target="_blank"><i class="fab fa-github-square"></i></a></li>
         </ul>
       </div>
-<!-- social-network-list -->
+<!-- social-network-list (these icons take the user to social media websites) -->
       <div class="col-md-4">
         <p>Paul Frankling 2020 &#169;</p>
       </div>

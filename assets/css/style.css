@@ -11,7 +11,8 @@ html {
     scroll-behavior: smooth;
 }
 
-/* Credit: scroll-behaviour taken from - https://www.w3schools.com/howto/howto_css_smooth_scroll.asp */
+/* Credit: scroll-behaviour taken from - https://www.w3schools.com/howto/howto_css_smooth_scroll.asp 
+- this is to show the route of the navigation to the user rather than the navigation take the user immediately to the links destination */
 
 :target:before {
     content: "";
@@ -20,7 +21,8 @@ html {
     margin: -100px 0 0;
 }
 
-/* Credit: ':target:before...' taken from - https://spigotdesign.com/smooth-scroll-offset-anchor-links-with-css/ */
+/* Credit: ':target:before...' taken from - https://spigotdesign.com/smooth-scroll-offset-anchor-links-with-css/ 
+- this is stopping each navigation link from taking the user to the wrong part of the page */
 
 .navbar {
     background-color: #4f5d75;
@@ -31,11 +33,13 @@ html {
     font-size: 20px;
 }
 
-/* Credit: navbar text color styling taken from https://stackoverflow.com/questions/48735679/bootstrap-change-navbar-link-colors */
+/* Credit: navbar text colour styling taken from https://stackoverflow.com/questions/48735679/bootstrap-change-navbar-link-colors */
 
 .navbar-dark .navbar-nav .nav-link:hover {
     color: #ef8354;
 }
+
+/* navbar links change to colour of mandarin when hovered over */
 
 .my-profile {
     background-color: #bfc0c0;
@@ -155,7 +159,8 @@ hr {
     color: #2d3142;
 }
 
-/* Credit: Progress bar styling taken from - https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/104d9207aa2a4bcbbdce3e321ff7f263/?child=last */
+/* Credit: Progress bar styling taken from - https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/104d9207aa2a4bcbbdce3e321ff7f263/?child=last 
+- this is to properly position text and icons inside each progress bar */
 
 .progress-type i {
     padding-left: 5px;
@@ -249,7 +254,8 @@ hr {
     }
 }
 
-/* Credit: media-query taken from https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/715392be2ba942abb1b6f9eaf566aed6/?child=first */
+/* Credit: media-query taken from https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/715392be2ba942abb1b6f9eaf566aed6/?child=first 
+- this is to stop the form increasing its width fully on larger device screens */
 
 footer {
     background-color: #4f5d75;
@@ -278,7 +284,7 @@ footer ul {
     margin-right: 5px;
 }
 
-/*--footer icons hover css input below--*/
+/* footer icons hover css input below */
 
 .social-network i {
     color: #fff;
@@ -312,4 +318,5 @@ footer ul {
     fill: #ef8354;
 }
 
-/* Credit: social-network icons hover has been copied and edited from https://www.solodev.com/blog/web-design/how-to-change-icon-colors-and-background-colors-on-hover.stml */
+/* Credit: social-network icons hover has been copied and edited from https://www.solodev.com/blog/web-design/how-to-change-icon-colors-and-background-colors-on-hover.stml
+- this is used to present the colour of mandarin when the link is hovered over */
