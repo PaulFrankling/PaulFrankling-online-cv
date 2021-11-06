@@ -1,4 +1,4 @@
-# Paul Frankling | Online CV
+# Paul's Online CV
 
 ## Code Institute - Milestone Project 1
 
